@@ -1,0 +1,25 @@
+# Android / Gradle / IDE
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+.cxx/
+.externalNativeBuild/
+captures/
+# Signing credentials, local secrets and binaries
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+*.der
+*.apk
+*.aab
+keystore.properties
+signing.properties
+.env
+.env.*
+*.log
+.DS_Store
